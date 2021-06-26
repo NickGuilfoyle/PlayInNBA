@@ -8,7 +8,7 @@ Data stored in seeding.csv includes:
 * 10 seed team name and record  
 * 7 and 10 seeds for both conferences in each season as well as their win differentials  
 
-*** Requirments  
+### Requirments  
 * Python3  
 * BeautifulSoup4  
 * Requests  
